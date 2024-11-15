@@ -1,4 +1,4 @@
-# EX.-NO-2-B-IMPLEMENTATION-OF-RSA
+# EX.-NO-5-IMPLEMENTATION-OF-RSA
 
 ## AIM:
   To write a C program to implement the RSA encryption algorithm.
